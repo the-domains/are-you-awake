@@ -1,0 +1,14 @@
+layout_spectrum: 0.9810546536464244
+typography_spectrum: 0.40040269563905895
+color:
+  brandStrength: 0.3128810627385974
+  lightness: 0.08794243820011616
+  saturation: 0.5794004851486534
+  rhythmicContrast: 0.4525624255184084
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Are you Awake?
