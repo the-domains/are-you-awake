@@ -12,7 +12,3 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Are you Awake?
-navigation:
-  - name: HOME
-    id: 9ce8d399-e0e6-486a-940a-02f0531d4605
-    type: content
