@@ -6,9 +6,13 @@ color:
   saturation: 0.5794004851486534
   rhythmicContrast: 0.4525624255184084
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Are you Awake?
+navigation:
+  - name: HOME
+    id: 9ce8d399-e0e6-486a-940a-02f0531d4605
+    type: content
