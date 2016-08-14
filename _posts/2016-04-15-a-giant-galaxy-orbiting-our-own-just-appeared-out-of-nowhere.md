@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-14T20:53:57.397Z'
+datePublished: '2016-08-14T20:55:25.259Z'
 sourcePath: >-
   _posts/2016-04-15-a-giant-galaxy-orbiting-our-own-just-appeared-out-of-nowhere.md
 inFeed: true
-isBasedOnUrl: >-
-  http://gizmodo.com/a-giant-galaxy-orbiting-our-own-just-appeared-out-of-no-1771257641
-hasPage: false
+hasPage: true
 keywords:
   - galaxies
   - crater
@@ -19,7 +17,7 @@ keywords:
   - newly-discovered
 related: []
 author: []
-dateModified: '2016-08-14T20:53:56.922Z'
+dateModified: '2016-08-14T20:55:24.671Z'
 title: A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere
 app_links: []
 publisher:
@@ -38,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: a-giant-galaxy-orbiting-our-own-just-appeared-out-of-nowhere/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
